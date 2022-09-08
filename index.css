@@ -1,0 +1,74 @@
+body {
+    background-color: aqua;
+    padding-left: 250px;
+}
+#right {
+    background-color: rgb(35, 35, 151);
+    width: 300px;
+    height: 450px;
+    padding-top: 15px;
+    padding-left: 28px;
+    padding-right: 28px;
+    display: inline-block;
+}
+#h1 {
+    color: #fff;
+}
+p {
+    color: #fff;
+    font-size: 14px;
+}
+#button1 {
+    height: 40px;
+    border: none;
+    border-radius: 6%;
+}
+#left {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 443px;
+    padding-top: 23px;
+    padding-left: 28px;
+    padding-right: 28px;
+    display: inline-block;
+}
+#label2 {
+    margin-left: 48px;
+}
+#input1 {
+    width: 90px;
+    height: 26px;
+    border-radius: 5px;
+}
+#input2 {
+    width: 90px;
+    height: 26px;
+    margin-left: 18px;
+    border-radius: 5px;
+}
+#input3 {
+    height: 26px;
+    border-radius: 5px;
+}
+#input4 {
+    width: 90px;
+    height: 26px;
+    border-radius: 5px;
+}
+#input5 {
+    width: 120px;
+    height: 26px;
+    margin-left: 18px;
+    border-radius: 5px;
+}
+#label3 {
+    margin-left: 54px;
+}
+#button2 {
+    width: 95px;
+    height: 40px;
+    border: none;
+    border-radius: 6%;
+    background-color: rgb(35, 35, 151);
+    color: #fff;
+}
